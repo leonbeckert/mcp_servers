@@ -2,6 +2,7 @@
 	"name": "@modelcontextprotocol/server-zenrows",
 	"version": "0.1.0",
 	"description": "MCP server that fetches webpages via ZenRows with cost‑aware escalation",
+	"author": "Leon Beckert (Arana AI)"
 	"license": "MIT",
 	"type": "module",
 	"bin": {
